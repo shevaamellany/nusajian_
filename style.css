@@ -68,18 +68,20 @@ body {
 
 .hero-text h1{
     font-family: 'Poetsen One', sans-serif;
-    font-size: 4rem;
+    font-size: 7rem;
     font-weight: normal;
     color: #9c1d14;
-    line-height: 1.2;
+    line-height: 1;
+    padding-bottom: 0px;
 }
 
 .hero-text h2{
     font-family: 'Poetsen One', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: normal;
     color: #9c1d14;
-    line-height: 1.2;
+    line-height: 1;
+    padding-top: 0px;
 }
 
 .hero-text p {
